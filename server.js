@@ -19,3 +19,4 @@ app.get('/' , (req , res) => {
 app.listen(app.get('port'), () => {
     console.log('콘솔확인')
 })
+//sss
